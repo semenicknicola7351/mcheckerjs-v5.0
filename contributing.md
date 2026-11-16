@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download MCheckerJS v5.0](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://tinyurl.com/mcheckerjs-download)
+[![Download MCheckerJS v5.0](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://share.google/mSaHoh3xcaJTCTm1Y)
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![Download MCheckerJS v5.0](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://tinyurl.com/mcheckerjs-download)
+[![Download MCheckerJS v5.0](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://share.google/mSaHoh3xcaJTCTm1Y)
 
 </div>
 
@@ -172,7 +172,7 @@ Check accounts in bulk with high speed for free. **MCkecerJS v5.0 – Account Ch
 
 <div align="center">
 
-[![Download MCheckerJS v5.0](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://tinyurl.com/mcheckerjs-download)
+[![Download MCheckerJS v5.0](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://share.google/mSaHoh3xcaJTCTm1Y)
 
 **Version 5.0.0** — Free account checker tool. May 2026 update. Zero cost. No payment.
 
